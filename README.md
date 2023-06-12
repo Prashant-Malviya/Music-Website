@@ -1,4 +1,4 @@
-# Web-Application--
+# Music Website--
 Made My own Live music web app
 This is simple frontend project in which U can play songs and
 Also change songs
